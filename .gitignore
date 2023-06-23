@@ -1,0 +1,6 @@
+#Por consignas el .env 
+.env
+#Sacar el zip, por consigna. 
+practico-1.zip
+logs/
+dist/
